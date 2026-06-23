@@ -40,8 +40,3 @@
 - Machine Learning Projects
 - DBMS & SQL Projects
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhishekmangaraj008/abhishekmangaraj008/output/github-snake-dark.svg" alt="Snake animation" />
-</p>
