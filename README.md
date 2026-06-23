@@ -40,12 +40,8 @@
 - Machine Learning Projects
 - DBMS & SQL Projects
 
-## 📊 GitHub Stats
+## 🐍 Contribution Snake
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekmangaraj008&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekmangaraj008&layout=compact)
-
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=abhishekmangaraj008)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhishekmangaraj008/abhishekmangaraj008/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
